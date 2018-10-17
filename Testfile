@@ -5,4 +5,4 @@ final int MAXIMUM = 99999;
 Scanner keyboard = new Scanner(System.in);
 int getal1 = keyboard.nextInt();
 
-
+Scanner keyboard = new Scanner
