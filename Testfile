@@ -1,0 +1,8 @@
+public class void main (String [] args){
+final int MNIMUM = 100000;
+final int MAXIMUM = 99999;
+
+Scanner keyboard = new Scanner(System.in);
+int getal1 = keyboard.nextInt();
+
+
